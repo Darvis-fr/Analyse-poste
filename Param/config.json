@@ -1,0 +1,10 @@
+{
+    "EmailSettings": {
+        "To": "destinataire@example.com",
+        "From": "expediteur@example.com",
+        "SmtpServer": "smtp.example.com",
+        "Port": 587,
+        "Username": "expediteur@example.com"
+    },
+    "ExcludedEventIDs": [1000, 1001, 6008]
+}
